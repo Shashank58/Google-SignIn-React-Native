@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "290693663063",
+    "project_id": "reactsignin"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290693663063:android:7ff1144778045c9a",
+        "android_client_info": {
+          "package_name": "com.reactgooglesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290693663063-dnuesiuk48pc1nlciu854dlj5ilteb2p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reactgooglesignin",
+            "certificate_hash": "580AF49A8AEA0C1CCB1DB0F872914E6DD258A7F4"
+          }
+        },
+        {
+          "client_id": "290693663063-9drkmt7f2clg654r7tqadtsms59jh63m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpmqnvGSnmAN2nK3MYx21DHrE30PWo7PQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
